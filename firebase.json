@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "Bytepussel",
+    "public": ".",
     "ignore": [
       "firebase.json",
       "**/.*",

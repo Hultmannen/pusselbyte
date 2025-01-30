@@ -8,7 +8,7 @@ const firebaseConfig = {
     apiKey: "AIzaSyB2BTIekYGhTCyHYDT8kU6Z_Qz47yGLfPY",
     authDomain: "pusselbyte-6933e.firebaseapp.com",
     projectId: "pusselbyte-6933e",
-    storageBucket: "pusselbyte-6933e.firebasestorage.app",
+    storageBucket: "pusselbyte-6933e.appspot.com",
     messagingSenderId: "967011026218",
     appId: "1:967011026218:web:87908694658bcdc1440a53",
     measurementId: "G-8ZSFJ67H7Z"
