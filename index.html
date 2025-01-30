@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzle Swap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Puzzle Swap Platform</h1>
+    <h2>Upload Your Puzzle</h2>
+    <input type="file" id="puzzleImage">
+    <input type="text" id="puzzleName" placeholder="Puzzle Name">
+    <textarea id="puzzleDescription" placeholder="Description"></textarea>
+    <button onclick="uploadPuzzle()">Upload</button>
+
+    <h2>Available Puzzles for Trade</h2>
+    <div id="puzzleList"></div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
