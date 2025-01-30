@@ -5,13 +5,15 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from "https://www.gstati
 
 // Your Firebase configuration (replace with your actual config)
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_ID",
-    appId: "YOUR_APP_ID",
-};
+    apiKey: "AIzaSyB2BTIekYGhTCyHYDT8kU6Z_Qz47yGLfPY",
+    authDomain: "pusselbyte-6933e.firebaseapp.com",
+    projectId: "pusselbyte-6933e",
+    storageBucket: "pusselbyte-6933e.firebasestorage.app",
+    messagingSenderId: "967011026218",
+    appId: "1:967011026218:web:87908694658bcdc1440a53",
+    measurementId: "G-8ZSFJ67H7Z"
+  };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
